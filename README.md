@@ -2,14 +2,9 @@
 
 An AI-based Rock-Paper-Scissors game using computer vision and hand gesture recognition.
 
-## Features
-- Real-time hand gesture detection using OpenCV
-- Game against AI using gesture classification
-- Tkinter GUI interface
-
 ## Screenshots
 <img src="images/invalid.png" alt="Detects invalid move" width="400"/>
-*Detects invalid move, flagging it as Unknown*
+<p><em>Detects invalid move, flagging it as "Unknown".</em></p>
 <br/>
 <img src="images/sample.png" alt="Gameplay" width="400"/>
 
